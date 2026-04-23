@@ -1,0 +1,61 @@
+:root {
+  /* Heading */
+  --font-heading-xlg-size: 40px;
+  --font-heading-xlg-line-height: 48px;
+  --font-heading-xlg-weight: 700;
+
+  --font-heading-lg-size: 32px;
+  --font-heading-lg-line-height: 40px;
+  --font-heading-lg-weight: 700;
+
+  --font-heading-md-size: 28px;
+  --font-heading-md-line-height: 36px;
+  --font-heading-md-weight: 700;
+
+  --font-heading-sm-size: 24px;
+  --font-heading-sm-line-height: 32px;
+  --font-heading-sm-weight: 700;
+
+  /* Body */
+  --font-body-lg-size: 18px;
+  --font-body-lg-line-height: 28px;
+  --font-body-lg-weight: 400;
+
+  --font-body-lg-bold-size: 18px;
+  --font-body-lg-bold-line-height: 28px;
+  --font-body-lg-bold-weight: 700;
+
+  --font-body-base-size: 16px;
+  --font-body-base-line-height: 24px;
+  --font-body-base-weight: 500;
+
+  --font-body-base-bold-size: 16px;
+  --font-body-base-bold-line-height: 24px;
+  --font-body-base-bold-weight: 700;
+
+  --font-body-sm-size: 14px;
+  --font-body-sm-line-height: 20px;
+  --font-body-sm-weight: 400;
+
+  --font-body-sm-bold-size: 14px;
+  --font-body-sm-bold-line-height: 20px;
+  --font-body-sm-bold-weight: 700;
+
+  /* Caption */
+  --font-caption-size: 12px;
+  --font-caption-line-height: 16px;
+  --font-caption-weight: 400;
+
+  --font-caption-bold-size: 12px;
+  --font-caption-bold-line-height: 16px;
+  --font-caption-bold-weight: 700;
+
+  /* Tabular */
+  --font-tabular-size: 14px;
+  --font-tabular-line-height: 20px;
+  --font-tabular-weight: 400;
+  --font-tabular-family: "IBM Plex Mono", monospace;
+
+  /* Font families */
+  --font-family-base: "Noto Sans JP", sans-serif;
+}
