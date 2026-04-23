@@ -1,0 +1,11 @@
+{
+  "global": {},
+  "Foundation": {},
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Foundation"
+    ]
+  }
+}
