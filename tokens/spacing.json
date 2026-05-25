@@ -1,0 +1,44 @@
+{
+  "raw": {
+    "spacing": {
+      "0":  { "value": "0",   "type": "spacing", "description": "0px"   },
+      "px": { "value": "1",   "type": "spacing", "description": "1px"   },
+      "0_5":{ "value": "2",   "type": "spacing", "description": "2px"   },
+      "1":  { "value": "4",   "type": "spacing", "description": "4px"   },
+      "1_5":{ "value": "6",   "type": "spacing", "description": "6px"   },
+      "2":  { "value": "8",   "type": "spacing", "description": "8px"   },
+      "2_5":{ "value": "10",  "type": "spacing", "description": "10px"  },
+      "3":  { "value": "12",  "type": "spacing", "description": "12px"  },
+      "3_5":{ "value": "14",  "type": "spacing", "description": "14px"  },
+      "4":  { "value": "16",  "type": "spacing", "description": "16px"  },
+      "5":  { "value": "20",  "type": "spacing", "description": "20px"  },
+      "6":  { "value": "24",  "type": "spacing", "description": "24px"  },
+      "7":  { "value": "28",  "type": "spacing", "description": "28px"  },
+      "8":  { "value": "32",  "type": "spacing", "description": "32px"  },
+      "9":  { "value": "36",  "type": "spacing", "description": "36px"  },
+      "10": { "value": "40",  "type": "spacing", "description": "40px"  },
+      "11": { "value": "44",  "type": "spacing", "description": "44px"  },
+      "12": { "value": "48",  "type": "spacing", "description": "48px"  },
+      "14": { "value": "56",  "type": "spacing", "description": "56px"  },
+      "16": { "value": "64",  "type": "spacing", "description": "64px"  },
+      "20": { "value": "80",  "type": "spacing", "description": "80px"  },
+      "24": { "value": "96",  "type": "spacing", "description": "96px"  },
+      "28": { "value": "112", "type": "spacing", "description": "112px" },
+      "32": { "value": "128", "type": "spacing", "description": "128px" },
+      "36": { "value": "144", "type": "spacing", "description": "144px" },
+      "40": { "value": "160", "type": "spacing", "description": "160px" },
+      "44": { "value": "176", "type": "spacing", "description": "176px" },
+      "48": { "value": "192", "type": "spacing", "description": "192px" },
+      "52": { "value": "208", "type": "spacing", "description": "208px" },
+      "56": { "value": "224", "type": "spacing", "description": "224px" },
+      "60": { "value": "240", "type": "spacing", "description": "240px" },
+      "64": { "value": "256", "type": "spacing", "description": "256px" },
+      "72": { "value": "288", "type": "spacing", "description": "288px" },
+      "80": { "value": "320", "type": "spacing", "description": "320px" },
+      "96": { "value": "384", "type": "spacing", "description": "384px" }
+    }
+  },
+  "$metadata": {
+    "tokenSetOrder": ["raw"]
+  }
+}
